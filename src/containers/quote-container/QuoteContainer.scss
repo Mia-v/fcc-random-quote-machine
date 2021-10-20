@@ -4,8 +4,9 @@
   justify-content: space-around;
   width: 75vw;
   height: 60vh;
-  background-color:cornsilk;
-  border: 1px solid gray;
+  min-height: 30rem;
+  background-color:#fff8df;
+  border: 1px solid #845A6D;
   border-radius: 5px;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   position: absolute;
@@ -34,14 +35,15 @@
     // right: 1.5rem;
     border: none;
     border-radius: 5px;
-    background-color: #5f9ea0;
+    background-color: #87B6A7;
     font-family: 'Lato', sans-serif;
-    font-size: 1rem;
+    font-size: 1.2rem;
+
   
     &:hover {
-      background-color: #558d8f;
+      background-color: #3D5A6C;
       color: white;
-      font-size: 1.2rem;
+      font-size: 1.4rem;
     }
   }
 }

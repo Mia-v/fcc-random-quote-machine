@@ -4,17 +4,21 @@
   text-align: center;
   align-items: center;
   justify-content: center;
+  min-height: 20rem;
   
   #text {
-    font-size: 3rem;
+    font-size: 2.75rem;
     margin: 0 15% 3%;
     // font-family: 'Festive', cursive;
     font-family: 'Lato', sans-serif;
   }
   
   #author {
-    font-size: 2rem;
+    font-size: 1.75rem;
     float: right;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: absolute;
+    bottom: 10rem;
+    right: 10rem;
   }
 }
