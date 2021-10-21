@@ -19,7 +19,7 @@ export const QuoteContainer = (props) => {
     <div id="quote-box">
         <Quote state = {newQuote} />
         <div className="buttons">
-          <TweetQuote />
+          <TweetQuote share = {newQuote}/>
           <button id='new-quote' onClick={handleClick} >New quote</button>
         </div>
     </div>
