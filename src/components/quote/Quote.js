@@ -8,9 +8,9 @@ const author = props.state[1];
 return(
     <div className = 'quote-and-author'>
       <div id="text" >
-        <span>&ldquo; </span>
+      <i className="fa fa-quote-left" />
           {quote}
-        <span> &rdquo;</span>
+      <i className="fa fa-quote-right" />
       </div>
       <div id="author" >&mdash; {author}</div>
 
