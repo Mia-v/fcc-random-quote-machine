@@ -1,3 +1,11 @@
+# Random Quote Machine inspired by The Simpsons.
+
+<img width="1680" alt="fcc-random-quote-machine" src="https://user-images.githubusercontent.com/37041125/143424337-f91f336a-7ad1-47b0-ab3d-d87e2e4b78c9.png">
+
+[Link to published project](https://mia-v.github.io/fcc-random-quote-machine/)
+
+
+---
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
